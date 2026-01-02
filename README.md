@@ -81,7 +81,7 @@ This design ensures smooth execution of **multi-step workflows** without requiri
 
 ![Alt text](./images/Scheduling.png)
 
-![Alt text](./images/Sessionmemory.png)
+![Alt text](./images/Sessionmemory.png) 
 
 ---
 
