@@ -1,10 +1,10 @@
-# 🤖 Schedulify — AI Concierge for Smart Workflow Automation
+# Schedulify — AI Concierge for Smart Workflow Automation
 
 **Schedulify** is an experimental AI-powered workflow assistant designed to automate everyday professional tasks such as email summarization, task extraction, reminders, and meeting scheduling.
 
 ---
 
-## 📖 About the Project
+## About the Project
 
 Instead of functioning as a single chatbot, Schedulify is built as a **multi-agent system**, where each agent handles a specific responsibility. Together, these agents collaborate to simulate the behavior of a smart personal assistant that can understand context, perform multi-step reasoning, and manage routine workflows with minimal user input.
 
@@ -12,7 +12,7 @@ This project focuses on **agent orchestration, reasoning-based automation, and m
 
 ---
 
-## ✨ What Schedulify Does
+## What Schedulify Does
 
 Schedulify helps reduce manual effort by automating common workflow tasks:
 
@@ -26,11 +26,11 @@ The goal is to explore how **agentic AI systems** can move beyond simple respons
 
 ---
 
-## 🧠 System Overview
+## System Overview
 
 Schedulify uses a **multi-agent architecture**, where each agent is specialized for a specific task. A central **Supervisor Agent** controls the flow and decides which agents to activate based on user intent.
 
-### 🧩 Core Agents
+### Core Agents
 
 | Agent                     | Responsibility                                  |
 | :------------------------ | :---------------------------------------------- |
@@ -44,7 +44,7 @@ Schedulify uses a **multi-agent architecture**, where each agent is specialized 
 
 ---
 
-## 🛠 Workflow Architecture
+## Workflow Architecture
 
 Schedulify follows a structured execution pipeline:
 
@@ -57,7 +57,7 @@ This design ensures smooth execution of **multi-step workflows** without requiri
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 * **Language:** Python
 * **AI Framework:** OpenAI Agent Framework
@@ -75,17 +75,17 @@ This design ensures smooth execution of **multi-step workflows** without requiri
 
 ---
 
-## 🖼 Workflow Diagrams & Images
+## Workflow Diagrams & Images
 
-![Alt text](./images/Process WorkFlow.png)
+![Alt text](./images/ProcessWorkFlow.png)
 
 ![Alt text](./images/Scheduling.png)
 
-![Alt text](./images/Session memory.png)
+![Alt text](./images/Sessiomemory.png)
 
 ---
 
-## 🚀 Current Status
+## Current Status
 
 * ✅ Multi-agent execution implemented
 * ✅ Context preserved across steps
@@ -94,7 +94,7 @@ This design ensures smooth execution of **multi-step workflows** without requiri
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * Integration with real Email & Calendar APIs (Gmail / Outlook / Google Calendar)
 * Persistent long-term memory
@@ -104,17 +104,3 @@ This design ensures smooth execution of **multi-step workflows** without requiri
 * Dashboard UI for monitoring workflows
 
 ---
-
-## 🎯 Why This Project?
-
-Schedulify is built as a learning and exploration project to understand:
-
-* Agent-based system design
-* Multi-step reasoning with LLMs
-* Tool-augmented AI workflows
-* Scalable automation architecture
-
-It serves as a strong base for future expansion into real-world productivity tools.
-
-----
-Schedulify is a multi-agent AI concierge designed to automate the modern workday. Built with the Google Agent SDK and Gemini, it transforms messy inboxes into structured tasks, manage calendar conflicts, and tracks reminders autonomously. It’s not just a chatbot, it’s your digital workforce.
