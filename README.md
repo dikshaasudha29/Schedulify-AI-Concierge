@@ -108,6 +108,7 @@ This design ensures smooth execution of **multi-step workflows** without requiri
        width="60%"
        style="border-radius: 8px; margin-top: 20px;" />
 </div>
+
 ---
 
 ## Current Status
@@ -119,13 +120,4 @@ This design ensures smooth execution of **multi-step workflows** without requiri
 
 ---
 
-## Future Improvements
 
-* Integration with real Email & Calendar APIs (Gmail / Outlook / Google Calendar)
-* Persistent long-term memory
-* Better task prioritization
-* Team-based scheduling support
-* Voice-based interaction
-* Dashboard UI for monitoring workflows
-
----
